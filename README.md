@@ -1,2 +1,2 @@
 # MarunProjectAutonomousCar
-Marmara üniversitesi Programlama II
+Marmara University homework
