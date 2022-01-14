@@ -1,2 +1,2 @@
 # MarunProjectAutonomousCar
-Marmara üniversitesi Programlama II final ödevi
+Marmara üniversitesi Programlama II
